@@ -1,0 +1,38 @@
+HEROES & VILLAINS (Heroes Version)
+Metro Boomin
+
+artist
+
+"01 --- Metro Boomin, John Legend",
+"02 --- Metro Boomin, Future, Chris Brown",
+"03 --- Metro Boomin, Future, Don Toliver",
+"04 --- Metro Boomin, Travis Scott",
+"05 --- Metro Boomin, 21 Savage, Young Nudy",
+"06 --- Metro Boomin, Travis Scott, Young Thug",
+"07 --- Metro Boomin, Don Toliver",
+"08 --- Metro Boomin, Young Thug",
+"09 --- Metro Boomin, Future, Don Toliver",
+"10 --- Metro Boomin, The Weeknd, 21 Savage",
+"11 --- Metro Boomin, Travis Scott, 21 Savage",
+"12 --- Metro Boomin, 21 Savage, Mustafa",
+"13 --- Metro Boomin, Travis Scott, Future",
+"14 --- Metro Boomin, A$AP Rocky, Takeoff",
+"15 --- Metro Boomin, Gunna",
+
+title
+
+"01 --- On Time (with John Legend)",
+"02 --- Superhero (Heroes & Villains) [with Future & Chris Brown]",
+"03 --- Too Many Nights (feat. Don Toliver & with Future)",
+"04 --- Raindrops (Insane) [with Travis Scott]",
+"05 --- Umbrella (with 21 Savage & Young Nudy)",
+"06 --- Trance (with Travis Scott & Young Thug)",
+"07 --- Around Me (feat. Don Toliver)",
+"08 --- Metro Spider (with Young Thug)",
+"09 --- I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
+"10 --- Creepin' (with The Weeknd & 21 Savage)",
+"11 --- Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+"12 --- Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa]",
+"13 --- Lock On Me (with Travis Scott & Future)",
+"14 --- Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+"15 --- All The Money (with Gunna) [Bonus]",
